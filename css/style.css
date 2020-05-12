@@ -20,10 +20,24 @@ body {
     grid-area: header;
     background-color: #8f57fd;
 }
+
+
 .main {
     grid-area: main;
     background-color: #AB88FF;
 }
+.main .messages {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 80%;
+    
+}
+.main .message-container {
+  width: 350px;
+  padding: 25px;
+}
+
 .footer {
     grid-area: footer;
     background-color: #21c08b;
