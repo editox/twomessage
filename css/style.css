@@ -26,11 +26,7 @@ ul{
 
 .header {
     grid-area: header;
-<<<<<<< HEAD
-    background-color: #1c94cc;
-=======
     background-color: #7037e4;
->>>>>>> newfooter
 }
 .header nav{
     height: 100%;
