@@ -26,7 +26,7 @@ ul{
 
 .header {
     grid-area: header;
-    background-color: #8f57fd;
+    background-color: #7037e4;
 }
 .header nav{
     height: 100%;
@@ -42,8 +42,6 @@ ul{
     color: white;
     padding-left: 20px;
 }
-
-
 .main {
     grid-area: main;
     background-color: #AB88FF;
@@ -52,7 +50,7 @@ ul{
     display: flex;
     justify-content: space-between;
     margin: auto;
-    width: 80%;
+    width: 70%;
     
 }
 .main .message-container {
