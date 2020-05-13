@@ -54,12 +54,7 @@ ul{
     display: flex;
     justify-content: space-between;
     margin: auto;
-<<<<<<< HEAD
-    width: 90%;
-=======
-    width: 70%;
->>>>>>> newfooter
-    
+    width: 70%;    
 }
 .main .message-container {
   width: 350px;
