@@ -6,17 +6,13 @@ body {
     background-color: gray;
 }
 p{
-    color: rgb(218, 134, 134);
+    color: whitesmoke;
 }
 
 ul{
     list-style: none;
     margin: 0;
 }
-p{
-    color: whitesmoke;
-}
-
 
 .container {
     display: grid;
