@@ -5,6 +5,9 @@ body {
     text-align: center;
     background-color: gray;
 }
+p{
+    color: rgb(218, 134, 134);
+}
 
 .container {
     display: grid;
@@ -26,5 +29,5 @@ body {
 }
 .footer {
     grid-area: footer;
-    background-color: #21c08b;
+    background-color: #65c0a2;
 }
