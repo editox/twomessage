@@ -10,7 +10,9 @@ ul{
     list-style: none;
     margin: 0;
 }
-
+p{
+    color: whitesmoke;
+}
 
 
 .container {
@@ -61,5 +63,5 @@ ul{
 
 .footer {
     grid-area: footer;
-    background-color: #21c08b;
+    background-color: #34c091;
 }
