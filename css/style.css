@@ -26,7 +26,11 @@ ul{
 
 .header {
     grid-area: header;
+<<<<<<< HEAD
     background-color: #1c94cc;
+=======
+    background-color: #7037e4;
+>>>>>>> newfooter
 }
 .header nav{
     height: 100%;
@@ -42,8 +46,6 @@ ul{
     color: white;
     padding-left: 20px;
 }
-
-
 .main {
     grid-area: main;
     background-color: #AB88FF;
@@ -52,7 +54,11 @@ ul{
     display: flex;
     justify-content: space-between;
     margin: auto;
+<<<<<<< HEAD
     width: 90%;
+=======
+    width: 70%;
+>>>>>>> newfooter
     
 }
 .main .message-container {
