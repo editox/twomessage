@@ -27,7 +27,6 @@ ul{
     grid-area: header;
     background-color: #8f57fd;
 }
-<<<<<<< HEAD
 .header nav{
     height: 100%;
 }
@@ -42,9 +41,7 @@ ul{
     color: white;
     padding-left: 20px;
 }
-=======
 
->>>>>>> newmain
 
 .main {
     grid-area: main;
