@@ -5,6 +5,9 @@ body {
     text-align: center;
     background-color: gray;
 }
+p{
+    color: rgb(218, 134, 134);
+}
 
 ul{
     list-style: none;
@@ -63,5 +66,9 @@ p{
 
 .footer {
     grid-area: footer;
+<<<<<<< HEAD
     background-color: #34c091;
+=======
+    background-color: #65c0a2;
+>>>>>>> newfooter
 }
