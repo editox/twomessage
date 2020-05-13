@@ -44,7 +44,7 @@ ul{
 }
 .main {
     grid-area: main;
-    background-color: #AB88FF;
+    background-color: rgb(142, 100, 241);
 }
 .main .messages {
     display: flex;
